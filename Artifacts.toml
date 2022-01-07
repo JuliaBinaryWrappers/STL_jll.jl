@@ -1,0 +1,288 @@
+[[STL]]
+arch = "aarch64"
+git-tree-sha1 = "15612e01c4bb7ff75156290cd95b1329aee34cf3"
+os = "macos"
+
+    [[STL.download]]
+    sha256 = "0ffd12a86443ad8d3fab43e726cc3c8cd1f8ccd003cc02fca467c17c437b2bdd"
+    url = "https://github.com/JuliaBinaryWrappers/STL_jll.jl/releases/download/STL-v0.1.0+0/STL.v0.1.0.aarch64-apple-darwin.tar.gz"
+[[STL]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "851528587e4ceed16380032f8857edb2dac49d10"
+libc = "glibc"
+os = "linux"
+
+    [[STL.download]]
+    sha256 = "ecd9fa53adc4cd0f5af50718a1762139c5e346cda9a52d7374b5e89b0c9dfe9b"
+    url = "https://github.com/JuliaBinaryWrappers/STL_jll.jl/releases/download/STL-v0.1.0+0/STL.v0.1.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[STL]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5ec1e02729ca44d1c5dcbf6428c84b56a5e308cd"
+libc = "glibc"
+os = "linux"
+
+    [[STL.download]]
+    sha256 = "9a3d7d63768145abb37cc390aeb8b6e9b01ea8741aef7dfbec516dacef2aceab"
+    url = "https://github.com/JuliaBinaryWrappers/STL_jll.jl/releases/download/STL-v0.1.0+0/STL.v0.1.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[STL]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "bd31c0e92f90892ca3a5ae0f75ddb2bfdeac10e3"
+libc = "musl"
+os = "linux"
+
+    [[STL.download]]
+    sha256 = "5f93ce75e2a7084701a043e7f60ad0f2a20f5832fae90e3ea4688298ef9104e5"
+    url = "https://github.com/JuliaBinaryWrappers/STL_jll.jl/releases/download/STL-v0.1.0+0/STL.v0.1.0.aarch64-linux-musl-cxx03.tar.gz"
+[[STL]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3370d58216198d5dff0b20c5a2d5dcdb1b62336e"
+libc = "musl"
+os = "linux"
+
+    [[STL.download]]
+    sha256 = "1ffffb8d339832155362f7b3bbd9b655aafaa845451d203f08da76d49a870855"
+    url = "https://github.com/JuliaBinaryWrappers/STL_jll.jl/releases/download/STL-v0.1.0+0/STL.v0.1.0.aarch64-linux-musl-cxx11.tar.gz"
+[[STL]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8afa76ecff626415cbbe35483b015289edd6f15e"
+libc = "glibc"
+os = "linux"
+
+    [[STL.download]]
+    sha256 = "af190547af7613b1c16fae26b07da01ca7782ad7418740229142a9641dde4261"
+    url = "https://github.com/JuliaBinaryWrappers/STL_jll.jl/releases/download/STL-v0.1.0+0/STL.v0.1.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[STL]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d2758d33b067f1771f7ab81f542c46ad56e4c6a0"
+libc = "glibc"
+os = "linux"
+
+    [[STL.download]]
+    sha256 = "6be09142e90451e91862340a4589172cec26ab81f2c69ef777105b461f7e7194"
+    url = "https://github.com/JuliaBinaryWrappers/STL_jll.jl/releases/download/STL-v0.1.0+0/STL.v0.1.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[STL]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9812709767ba475e78181c018766f9e427ab11b2"
+libc = "musl"
+os = "linux"
+
+    [[STL.download]]
+    sha256 = "c682c0c595df09ddfd210910694535af156dd07e42fd118f082b0872e702bd0b"
+    url = "https://github.com/JuliaBinaryWrappers/STL_jll.jl/releases/download/STL-v0.1.0+0/STL.v0.1.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[STL]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8ae4ab7c8ef2bd30fda27a61700e4fcce4a81e1a"
+libc = "musl"
+os = "linux"
+
+    [[STL.download]]
+    sha256 = "95706d62748890bdd1c3c7afc28722b991c5059170e03c242d1bd515e312d921"
+    url = "https://github.com/JuliaBinaryWrappers/STL_jll.jl/releases/download/STL-v0.1.0+0/STL.v0.1.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[STL]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8e854c09a498a2b6d398f47f1343379956d33695"
+libc = "glibc"
+os = "linux"
+
+    [[STL.download]]
+    sha256 = "42a7cb0e36291b4304326bb6ba8b53de53b69d8015a4cfc150b937d09c34998d"
+    url = "https://github.com/JuliaBinaryWrappers/STL_jll.jl/releases/download/STL-v0.1.0+0/STL.v0.1.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[STL]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1a37dbff61e9c54db984168d4e344aa86e00e147"
+libc = "glibc"
+os = "linux"
+
+    [[STL.download]]
+    sha256 = "01408d948baecc7237da5016075731422d769c5b26ec1cd7f02b74f1d43a2ab9"
+    url = "https://github.com/JuliaBinaryWrappers/STL_jll.jl/releases/download/STL-v0.1.0+0/STL.v0.1.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[STL]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "86b9c1223c91b8802eb4d62dffb1244512822a8a"
+libc = "musl"
+os = "linux"
+
+    [[STL.download]]
+    sha256 = "2116bd59066ae026e1c248ee4855e20b6a42d55ca9a71215b22840e73cd287f6"
+    url = "https://github.com/JuliaBinaryWrappers/STL_jll.jl/releases/download/STL-v0.1.0+0/STL.v0.1.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[STL]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5f6ae03a79ccd3171830a4c304ddf466949b104f"
+libc = "musl"
+os = "linux"
+
+    [[STL.download]]
+    sha256 = "f4b8d10e8e750b6b40e44d550d1908853da18748374f763afbf39c1a83b1cbee"
+    url = "https://github.com/JuliaBinaryWrappers/STL_jll.jl/releases/download/STL-v0.1.0+0/STL.v0.1.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[STL]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "04db4dab42d56018663818015491315c8151d858"
+libc = "glibc"
+os = "linux"
+
+    [[STL.download]]
+    sha256 = "266c3ff7b850ab0b900b14427b893e891cba0ee0585ee3d169d0230a1fafe7c2"
+    url = "https://github.com/JuliaBinaryWrappers/STL_jll.jl/releases/download/STL-v0.1.0+0/STL.v0.1.0.i686-linux-gnu-cxx03.tar.gz"
+[[STL]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d0c5b2586ce46ac00baef2ad2456daa337fff84a"
+libc = "glibc"
+os = "linux"
+
+    [[STL.download]]
+    sha256 = "9a2daaf7e8a0f56598fc478eb1f1945adcf5909899edabd794fc2ab2530e63ee"
+    url = "https://github.com/JuliaBinaryWrappers/STL_jll.jl/releases/download/STL-v0.1.0+0/STL.v0.1.0.i686-linux-gnu-cxx11.tar.gz"
+[[STL]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "259d6f6191ffa38fa0f1782811e3ec258bad4685"
+libc = "musl"
+os = "linux"
+
+    [[STL.download]]
+    sha256 = "ef2c615d00d5dabff34cf84274c3d6aaa45bdc982234420d606ff03d84bb2174"
+    url = "https://github.com/JuliaBinaryWrappers/STL_jll.jl/releases/download/STL-v0.1.0+0/STL.v0.1.0.i686-linux-musl-cxx03.tar.gz"
+[[STL]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "bb26f56b7ba85987c37e8c561fb61f7e7c52d235"
+libc = "musl"
+os = "linux"
+
+    [[STL.download]]
+    sha256 = "e3bc33f97ec8b63c6fedba21a19f552aad7c8ed37a4498f84ef855d58aa906d0"
+    url = "https://github.com/JuliaBinaryWrappers/STL_jll.jl/releases/download/STL-v0.1.0+0/STL.v0.1.0.i686-linux-musl-cxx11.tar.gz"
+[[STL]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "604552dcd76c2bfd86a2be0eca0abdc11ce480e7"
+os = "windows"
+
+    [[STL.download]]
+    sha256 = "1cd19d6dab04dff070a86d9d4e2ae69b4b787a779457c7acafa5afe6519e1a9e"
+    url = "https://github.com/JuliaBinaryWrappers/STL_jll.jl/releases/download/STL-v0.1.0+0/STL.v0.1.0.i686-w64-mingw32-cxx03.tar.gz"
+[[STL]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "be62dfb4244f984ddc6ec126b29ae16268f934ad"
+os = "windows"
+
+    [[STL.download]]
+    sha256 = "cb59ceec70f28c040030d7b2688cfea77a796128ddeeff32ea593ddddb530950"
+    url = "https://github.com/JuliaBinaryWrappers/STL_jll.jl/releases/download/STL-v0.1.0+0/STL.v0.1.0.i686-w64-mingw32-cxx11.tar.gz"
+[[STL]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "cc6b335738182876466273b6666a0b17ff44c8fe"
+libc = "glibc"
+os = "linux"
+
+    [[STL.download]]
+    sha256 = "9eb52d3a806770408d67ab188258da34884b572a058acddfc6d3bf938b1ce917"
+    url = "https://github.com/JuliaBinaryWrappers/STL_jll.jl/releases/download/STL-v0.1.0+0/STL.v0.1.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[STL]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7517ffc50ec5c4a72a51f6616df0be0c6d069f52"
+libc = "glibc"
+os = "linux"
+
+    [[STL.download]]
+    sha256 = "65038c72b5ea857aefd2170abaeae5d18494db1ea4f5353a8f59a48228db142f"
+    url = "https://github.com/JuliaBinaryWrappers/STL_jll.jl/releases/download/STL-v0.1.0+0/STL.v0.1.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[STL]]
+arch = "x86_64"
+git-tree-sha1 = "8f5f5f22f31e225dfdc698caff414211beced412"
+os = "macos"
+
+    [[STL.download]]
+    sha256 = "374cb833bd6a26d217ef3d7db9dd9da13cc5c7c3899f6ebb6608e94db6a7b445"
+    url = "https://github.com/JuliaBinaryWrappers/STL_jll.jl/releases/download/STL-v0.1.0+0/STL.v0.1.0.x86_64-apple-darwin.tar.gz"
+[[STL]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6e159ebad67aba2e162cd8384179019f43abe9d7"
+libc = "glibc"
+os = "linux"
+
+    [[STL.download]]
+    sha256 = "690f33e8ba7a6909e6cf67f23102e3cf02b3bd397cd4786fe8041b769c70d747"
+    url = "https://github.com/JuliaBinaryWrappers/STL_jll.jl/releases/download/STL-v0.1.0+0/STL.v0.1.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[STL]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1402a5e6a1d72f6348f0487812f82dcb346e8543"
+libc = "glibc"
+os = "linux"
+
+    [[STL.download]]
+    sha256 = "710c90d850f15886b76d6abadcc4015505b0e3ac8a1cdcce3ff1d52e2a8a5acb"
+    url = "https://github.com/JuliaBinaryWrappers/STL_jll.jl/releases/download/STL-v0.1.0+0/STL.v0.1.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[STL]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9eadbc060c0deabe6ae99385ec6e1d067fe3620e"
+libc = "musl"
+os = "linux"
+
+    [[STL.download]]
+    sha256 = "59c34500b69c49718344fe6aeb6ef68b075c668dc5e7975d870a8eb9ec241668"
+    url = "https://github.com/JuliaBinaryWrappers/STL_jll.jl/releases/download/STL-v0.1.0+0/STL.v0.1.0.x86_64-linux-musl-cxx03.tar.gz"
+[[STL]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "fbadb02cc7fc4a6505130181331c0151b2d25617"
+libc = "musl"
+os = "linux"
+
+    [[STL.download]]
+    sha256 = "f135d598297d40f316a0b2beeb37d5d171cdc834520b67bd4d82befbe3a9c67b"
+    url = "https://github.com/JuliaBinaryWrappers/STL_jll.jl/releases/download/STL-v0.1.0+0/STL.v0.1.0.x86_64-linux-musl-cxx11.tar.gz"
+[[STL]]
+arch = "x86_64"
+git-tree-sha1 = "5f3df762586302348373931a895390a3120624c9"
+os = "freebsd"
+
+    [[STL.download]]
+    sha256 = "b5f1e019eda15fc1cd40fccebe9dfbb0e31db15426072c60a6f16b7d47a57d21"
+    url = "https://github.com/JuliaBinaryWrappers/STL_jll.jl/releases/download/STL-v0.1.0+0/STL.v0.1.0.x86_64-unknown-freebsd.tar.gz"
+[[STL]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7ea27c0df0adbaef4eff8be07da0b0532d503a80"
+os = "windows"
+
+    [[STL.download]]
+    sha256 = "5761ee25ed4994960abe5b1ec5c585c6baee9a8c7fb1516368f9f1a259fd4bac"
+    url = "https://github.com/JuliaBinaryWrappers/STL_jll.jl/releases/download/STL-v0.1.0+0/STL.v0.1.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[STL]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c14fab4fd08c27d811d9f0f5d353f6f41b7960d2"
+os = "windows"
+
+    [[STL.download]]
+    sha256 = "cc35b17bd1f90f44487af717dbcb256f259ef17d8b2e5c8514f37c25b2c90a96"
+    url = "https://github.com/JuliaBinaryWrappers/STL_jll.jl/releases/download/STL-v0.1.0+0/STL.v0.1.0.x86_64-w64-mingw32-cxx11.tar.gz"
